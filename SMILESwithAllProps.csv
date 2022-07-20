@@ -1,4 +1,4 @@
-SMILES,Density,Tg,Mt
+SMILES,Density,Tg,Tm
 *CC(*)C#N,1.18,95.0,311.0
 *N=P(*)(Oc1cccc(Br)c1)Oc1cccc(Br)c1,2.05,-2.5,320.0
 *Oc1ccc(NC(=O)c2ccc(C(=O)Nc3ccc(*)cc3)cc2)cc1,1.37,240.5,516.0
