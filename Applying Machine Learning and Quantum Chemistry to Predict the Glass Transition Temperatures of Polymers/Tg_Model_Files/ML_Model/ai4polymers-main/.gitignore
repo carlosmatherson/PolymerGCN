@@ -1,0 +1,10 @@
+.DS_Store
+.git
+.env
+*.out
+*.err*
+data/processed
+results/**/*.pt
+__pycache__
+optimization_files
+.ipynb_checkpoints

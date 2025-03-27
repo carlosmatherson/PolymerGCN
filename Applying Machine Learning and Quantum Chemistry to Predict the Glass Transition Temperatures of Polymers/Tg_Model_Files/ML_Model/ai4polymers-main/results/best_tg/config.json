@@ -1,0 +1,1 @@
+{"target": "tg", "raw_path": "./data", "verbose": true, "random_seed": 0, "output_directory": "./new_tg_original_tg_param", "learning_rate": 0.000841957131, "weight_decay": 1e-05, "batch_size": 256, "n_convolutions": 9, "convolutions_dim": 128, "n_hidden_layers": 7, "hidden_layers_dim": 128}
